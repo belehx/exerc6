@@ -1,0 +1,7 @@
+C:\Users\ALUNO\source\repos\exerc6\exerc6\bin\Debug\exerc6.exe.config
+C:\Users\ALUNO\source\repos\exerc6\exerc6\bin\Debug\exerc6.exe
+C:\Users\ALUNO\source\repos\exerc6\exerc6\bin\Debug\exerc6.pdb
+C:\Users\ALUNO\source\repos\exerc6\exerc6\obj\Debug\exerc6.csproj.AssemblyReference.cache
+C:\Users\ALUNO\source\repos\exerc6\exerc6\obj\Debug\exerc6.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\source\repos\exerc6\exerc6\obj\Debug\exerc6.exe
+C:\Users\ALUNO\source\repos\exerc6\exerc6\obj\Debug\exerc6.pdb
